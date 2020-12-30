@@ -1,0 +1,24 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "axios": "^0.21.0",
+    "element-plus": "^1.0.1-alpha.11",
+    "mockjs": "^1.1.0",
+    "vue": "^3.0.4",
+    "vue-router": "^4.0.1",
+    "vuex": "^4.0.0-rc.2"
+  },
+  "devDependencies": {
+    "glob": "^7.1.6",
+    "@vue/compiler-sfc": "^3.0.4",
+    "sass": "^1.30.0",
+    "sass-loader": "^10.1.0",
+    "typescript": "^4.1.2",
+    "vite": "^1.0.0-rc.13"
+  }
+}
